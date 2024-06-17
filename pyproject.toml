@@ -1,6 +1,6 @@
 [project]
 name = "recaptcha_solver_selenium"
-version = "0.0.1"
+version = "0.0.3"
 authors = [
   { name="Gabriel Foloni"}
 ]
